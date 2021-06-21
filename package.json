@@ -1,0 +1,30 @@
+{
+  "name": "tutod-nodejs-mongo-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djeg/tutod-nodejs-mongo-react.git"
+  },
+  "author": "David Jegat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djeg/tutod-nodejs-mongo-react/issues"
+  },
+  "homepage": "https://github.com/Djeg/tutod-nodejs-mongo-react#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.5.1",
+    "sass": "^1.35.1"
+  }
+}
